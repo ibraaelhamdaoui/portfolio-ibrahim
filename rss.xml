@@ -4,7 +4,7 @@
 <title>Viajes y más</title>
 <link>https://estherostos.github.io/proyectofhw</link>
 <description> Canal de noticias sobre viajes cutres </description>
-<category>viajes/ciudades/ocio</category>
+<category>Formación/futuras formaciones/</category>
 <copyright>1º ASIR - LMSGI</copyright>
 <image>
 <url>
@@ -17,7 +17,7 @@ https://estherostos.github.io/proyectofhw/viajes.jpg
 </image>
 <language>es-es</language>
 <lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
-<webMaster>i42osose@gmail.com</webMaster>
+<webMaster>elhamdoauiighzafen@gmail.com</webMaster>
 <!-- Noticias del canal -->
 <item>
 <title>Londres</title>
@@ -25,11 +25,11 @@ https://estherostos.github.io/proyectofhw/viajes.jpg
 En este artículo encontrará información sobre Londres
 </description>
 <link>
-https://estherostos.github.io/proyectofhw/pages/londres.html
+https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/pages/sobre-mi/.html
 </link>
 <author>ososes_iesma20@iesmedinaazahara.es</author>
 <category>londres</category>
-<enclosure url="https://youtu.be/VupykmeN-xM" type="video" length="32572719"/>
+<enclosure url="" type="video" length="32572719"/>
 <pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 </item>
 <item>
@@ -38,7 +38,7 @@ https://estherostos.github.io/proyectofhw/pages/londres.html
 En este artículo encontrará información sobre París
 </description>
 <link>
-https://estherostos.github.io/proyectofhw/pages/paris.html
+https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/pages/sobre-mi/.html
 </link>
 <author>eligib_aliesma@iesmedinaazahara.es</author>
 <category>paris</category>
