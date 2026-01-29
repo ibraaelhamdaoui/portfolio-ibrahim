@@ -4,7 +4,7 @@
 <title>Viajes y más</title>
 <link>https://estherostos.github.io/proyectofhw</link>
 <description> Canal de noticias sobre viajes cutres </description>
-<category>Formación/futuras formaciones/</category>
+<category>index.html/</category>
 <copyright>1º ASIR - LMSGI</copyright>
 <image>
 <url>
@@ -16,7 +16,7 @@ https://estherostos.github.io/proyectofhw/viajes.jpg
 <height>30</height>
 </image>
 <language>es-es</language>
-<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
+<lastBuildDate>Thu, 29 Jan 2029 14:20:00 +0100</lastBuildDate>
 <webMaster>elhamdoauiighzafen@gmail.com</webMaster>
 <!-- Noticias del canal -->
 <item>
@@ -27,10 +27,10 @@ En este artículo encontrará información sobre Londres
 <link>
 https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/pages/sobre-mi/.html
 </link>
-<author>ososes_iesma20@iesmedinaazahara.es</author>
+<author>elhamdoauiighzafen@gmail.com</author>
 <category>londres</category>
 <enclosure url="" type="video" length="32572719"/>
-<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+<pubDate>Thu, 29 Jan 2029 14:20:00 +0100</pubDate>
 </item>
 <item>
 <title>París</title>
@@ -42,7 +42,7 @@ https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/pages/sobre-mi/.html
 </link>
 <author>eligib_aliesma@iesmedinaazahara.es</author>
 <category>paris</category>
-<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+<pubDate>Thu, 29 Jan 2029 14:20:00 +0100</pubDate>
 </item>
 </channel>
 </rss>
