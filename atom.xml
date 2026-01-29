@@ -1,0 +1,32 @@
+<feed xml:lang="es" xml:base="https://estherostos.github.io/proyectofhw/">
+<id>https://ibraaelhamdaoui.github.io/portfolio-ibrahim/index.html/</id>
+<title>Viajes y más atom</title>
+<updated>2029-01-29T14:15:00+01:00</updated>
+<link rel="alternate" href="https://estherostos.github.io/proyectofhw/atom.xml"/>
+<author>
+<name>Ibrahim El Hamdaoui Ighzafen</name>
+<email>elhamdaouiighzafen@gmail.com</email>
+</author>
+<category term="Viajes ficticios"/>
+<contributor>
+<name>otro Autor</name>
+<email>eligib_aliesma@iesmedinaazahara.es</email>
+<uri>https://www.linkedin.com/in/otro</uri> //algun url de insta
+</contributor>
+<logo>viajes.jpg</logo>
+<entry>
+<id>
+https://ibraaelhamdaoui.github.io/portfolio-ibrahim/index.html/
+</id>
+<title>Información sobre Londres</title>
+<updated>2029-01-29T14:15:00+01:00</updated>
+<author>
+<name>Ibrahim El Hamdaoui Ighzafen</name>
+<email>eligib_aliesma@iesmedinaazahara.es</email>
+</author>
+<summary>
+En este artículo cutre encontraras casi ninguna información sobre Londres
+</summary>
+<link rel="alternate" href="https://estherostos.github.io/proyectofhw/pages/londres.html"/>
+</entry>
+</feed>
