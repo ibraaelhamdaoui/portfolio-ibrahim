@@ -1,32 +1,78 @@
-<feed xml:lang="es" xml:base="https://estherostos.github.io/proyectofhw/">
-<id>https://ibraaelhamdaoui.github.io/portfolio-ibrahim/index.html/</id>
-<title>Viajes y más atom</title>
-<updated>2029-01-29T14:15:00+01:00</updated>
-<link rel="alternate" href="https://estherostos.github.io/proyectofhw/atom.xml"/>
-<author>
-<name>Ibrahim El Hamdaoui Ighzafen</name>
-<email>elhamdaouiighzafen@gmail.com</email>
-</author>
-<category term="Viajes ficticios"/>
-<contributor>
-<name>otro Autor</name>
-<email>eligib_aliesma@iesmedinaazahara.es</email>
-<uri>https://www.linkedin.com/in/otro</uri> //algun url de insta
-</contributor>
-<logo>viajes.jpg</logo>
-<entry>
-<id>
-https://ibraaelhamdaoui.github.io/portfolio-ibrahim/index.html/
-</id>
-<title>Información sobre Londres</title>
-<updated>2029-01-29T14:15:00+01:00</updated>
-<author>
-<name>Ibrahim El Hamdaoui Ighzafen</name>
-<email>eligib_aliesma@iesmedinaazahara.es</email>
-</author>
-<summary>
-En este artículo cutre encontraras casi ninguna información sobre Londres
-</summary>
-<link rel="alternate" href="https://estherostos.github.io/proyectofhw/pages/londres.html"/>
-</entry>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Portfolio Ibrahim - Viajes y más (Atom)</title>
+    <subtitle>Canal de noticias sobre viajes - Portfolio LMSGI</subtitle>
+    <id>https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/atom.xml</id>
+    <updated>2026-03-06T13:30:00+01:00</updated>
+    
+    <author>
+        <name>Ibrahim El Hamdaoui Ighzafen</name>
+        <email>elhamdaouiighzafen@gmail.com</email>
+        <uri>https://github.com/ibraaelhamdaoui</uri>
+    </author>
+    
+    <link rel="alternate" href="https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/"/>
+    <link rel="self" href="https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/atom.xml"/>
+    
+    <logo>https://raw.githubusercontent.com/ibraaelhamdaoui/portfolio-ibrahim/main/atom.jpg</logo>
+    
+    <category term="viajes"/>
+    <category term="portfolio"/>
+    <category term="LMSGI"/>
+    
+    <rights>© 2026 Ibrahim El Hamdaoui - 1º ASIR LMSGI</rights>
+    
+    <entry>
+        <id>https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/pages/londres.html</id>
+        <title> Londres - Guía de Viaje</title>
+        <updated>2026-03-05T10:30:00+01:00</updated>
+        <published>2026-03-05T10:30:00+01:00</published>
+        <author>
+            <name>Ibrahim El Hamdaoui Ighzafen</name>
+            <email>elhamdaouiighzafen@gmail.com</email>
+        </author>
+        <summary type="html">
+            &lt;p&gt;Guía completa sobre Londres: lugares turísticos (London Eye, Big Ben, Tower Bridge), transporte, alojamiento y consejos para viajeros.&lt;/p&gt;
+        </summary>
+        <link rel="alternate" href="https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/pages/londres.html"/>
+        <category term="Londres"/>
+        <category term="Reino Unido"/>
+    </entry>
+    
+    <entry>
+        <id>https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/pages/paris.html</id>
+        <title> París - Guía Completa</title>
+        <updated>2026-03-05T11:45:00+01:00</updated>
+        <published>2026-03-05T11:45:00+01:00</published>
+        <author>
+            <name>Ibrahim El Hamdaoui Ighzafen</name>
+            <email>elhamdaouiighzafen@gmail.com</email>
+        </author>
+        <summary type="html">
+            &lt;p&gt;Descubre París: Torre Eiffel, Museo del Louvre, Catedral de Notre-Dame, gastronomía francesa y los mejores barrios para visitar.&lt;/p&gt;
+        </summary>
+        <link rel="alternate" href="https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/pages/paris.html"/>
+        <category term="París"/>
+        <category term="Francia"/>
+    </entry>
+    
+    <entry>
+        <id>https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/</id>
+        <title>💻 Mi Portfolio Web - Proyecto LMSGI</title>
+        <updated>2026-03-06T09:00:00+01:00</updated>
+        <published>2026-03-06T09:00:00+01:00</published>
+        <author>
+            <name>Ibrahim El Hamdaoui Ighzafen</name>
+            <email>elhamdaouiighzafen@gmail.com</email>
+        </author>
+        <summary type="html">
+            &lt;p&gt;Portfolio personal desarrollado para el módulo de Lenguaje de Marcas (LMSGI) con HTML, CSS, Bootstrap y sindicación RSS/Atom.&lt;/p&gt;
+        </summary>
+        <link rel="alternate" href="https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/"/>
+        <category term="Portfolio"/>
+        <category term="LMSGI"/>
+        <category term="Desarrollo Web"/>
+    </entry>
+
 </feed>
