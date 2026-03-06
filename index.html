@@ -4,17 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ibrahim El Hamdaoui - Inicio</title>
-    
+    <h1>Portfolio de Ibrahim</h1>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    
+
     <link rel="stylesheet" href="./styles/styles.css">
-    
-    <link rel="alternate" type="application/rss+xml" 
-          title="RSS Feed - Portfolio Ibrahim" 
-          href="https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/rss.xml">
-    <link rel="alternate" type="application/atom+xml" 
-          title="Atom Feed - Portfolio Ibrahim" 
-          href="https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/atom.xml">
 </head>
 <body>
 
@@ -47,8 +40,21 @@
         </div>
     </nav>
 
+    <!-- ICONOS RSS Y ATOM PEQUEÑOS ARRIBA (VISIBLES) -->
     <div class="container mt-5 pt-5">
+        <div class="d-flex justify-content-end gap-2 mb-3">
+            <a href="./rss.xml" target="_blank" title="Suscribirse vía RSS">
+                <img src="./rss.gif" alt="RSS" style="width: 32px; height: 32px; border-radius: 4px;">
+            </a>
+            <a href="./atom.xml" target="_blank" title="Suscribirse vía Atom">
+                <img src="./atom.jpg" alt="Atom" style="width: 32px; height: 32px; border-radius: 4px;">
+            </a>
+        </div>
+    </div>
+
+    <div class="container mt-3 pt-0">
         <div class="row align-items-center">
+  
             <div class="col-lg-7">
                 <h1 class="fw-bold mb-3">
                     Hola, soy <span class="text-primary">Ibrahim</span>
@@ -87,53 +93,61 @@
         </div>
     </div>
 
-    <section class="py-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <a href="./pages/sobre-mi.html" class="card h-100 text-decoration-none tarjeta-enlace">
-                        <div class="card-body text-center p-4">
-                            <div class="icono-tarjeta">
-                                <span class="text-primary">👤</span>
-                            </div>
-                            <h3 class="h5 fw-bold mt-3">Sobre Mí</h3>
-                            <p class="text-muted small">
-                                Mi formación, experiencia e intereses
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <a href="./pages/proyectos.html" class="card h-100 text-decoration-none tarjeta-enlace">
-                        <div class="card-body text-center p-4">
-                            <div class="icono-tarjeta">
-                                <span class="text-success">💻</span>
-                            </div>
-                            <h3 class="h5 fw-bold mt-3">Proyectos</h3>
-                            <p class="text-muted small">
-                                Proyectos en curso y realizados
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                
-                <div class="col-md-6 col-lg-3 mb-4">
-                    <a href="./pages/contacto.html" class="card h-100 text-decoration-none tarjeta-enlace">
-                        <div class="card-body text-center p-4">
-                            <div class="icono-tarjeta">
-                                <span class="text-info">📧</span>
-                            </div>
-                            <h3 class="h5 fw-bold mt-3">Contacto</h3>
-                            <p class="text-muted small">
-                                ¡Ponte en contacto conmigo!
-                            </p>
-                        </div>
-                    </a>
-                </div>
-            </div>
+    <!-- ICONOS RSS Y ATOM TAMBIÉN EN MEDIO (OPCIONAL) -->
+    <div class="container">
+        <div class="d-flex justify-content-center gap-3 my-4">
+            <a href="./rss.xml" target="_blank" title="RSS Feed">
+                <img src="./rss.gif" alt="RSS" style="width: 40px; height: 40px; border-radius: 6px;">
+            </a>
+            <a href="./atom.xml" target="_blank" title="Atom Feed">
+                <img src="./atom.jpg" alt="Atom" style="width: 40px; height: 40px; border-radius: 6px;">
+            </a>
         </div>
-    </section>
+    </div>
+            
+    <div class="row">
+        <div class="col-md-6 col-lg-3 mb-4">
+            <a href="./pages/sobre-mi.html" class="card h-100 text-decoration-none tarjeta-enlace">
+                <div class="card-body text-center p-4">
+                    <div class="icono-tarjeta">
+                        <span class="text-primary">👤</span>
+                    </div>
+                    <h3 class="h5 fw-bold mt-3">Sobre Mí</h3>
+                    <p class="text-muted small">
+                        Mi formación, experiencia e intereses
+                    </p>
+                </div>
+            </a>
+        </div>
+        
+        <div class="col-md-6 col-lg-3 mb-4">
+            <a href="./pages/proyectos.html" class="card h-100 text-decoration-none tarjeta-enlace">
+                <div class="card-body text-center p-4">
+                    <div class="icono-tarjeta">
+                        <span class="text-success">💻</span>
+                    </div>
+                    <h3 class="h5 fw-bold mt-3">Proyectos</h3>
+                    <p class="text-muted small">
+                        Proyectos en curso y realizados
+                    </p>
+                </div>
+            </a>
+        </div>
+        
+        <div class="col-md-6 col-lg-3 mb-4">
+            <a href="./pages/contacto.html" class="card h-100 text-decoration-none tarjeta-enlace">
+                <div class="card-body text-center p-4">
+                    <div class="icono-tarjeta">
+                        <span class="text-info">📧</span>
+                    </div>
+                    <h3 class="h5 fw-bold mt-3">Contacto</h3>
+                    <p class="text-muted small">
+                        ¡Ponte en contacto conmigo!
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div>
 
     <section class="py-5">
         <div class="container">
@@ -161,85 +175,38 @@
         </div>
     </section>
 
-    <footer class="bg-dark text-white py-5">
+    <!-- ICONOS EN EL FOOTER TAMBIÉN -->
+    <footer class="bg-dark text-white py-4">
         <div class="container">
-            <div class="row align-items-center mb-4">
+            <div class="row align-items-center">
                 <div class="col-md-6 mb-3 mb-md-0">
-                    <h4 class="h4 mb-2">Ibrahim El Hamdaoui</h4>
+                    <h4 class="h5 mb-2">Ibrahim El Hamdaoui</h4>
                     <p class="text-white-50 mb-0">Estudiante de Sistemas Informáticos</p>
                 </div>
+                
                 <div class="col-md-6">
-                    <div class="text-md-end">
+                    <div class="text-md-end d-flex align-items-center justify-content-md-end gap-3">
                         <a href="./index.html" class="text-white me-3">Inicio</a>
                         <a href="./pages/sobre-mi.html" class="text-white me-3">Sobre Mí</a>
                         <a href="./pages/proyectos.html" class="text-white me-3">Proyectos</a>
-                        <a href="./pages/contacto.html" class="text-white">Contacto</a>
+                        <a href="./pages/contacto.html" class="text-white me-3">Contacto</a>
+                        
+                        <!-- ICONOS PEQUEÑOS EN EL FOOTER -->
+                        <a href="./rss.xml" target="_blank" title="RSS">
+                            <img src="./rss.gif" alt="RSS" style="width: 24px; height: 24px; border-radius: 3px;">
+                        </a>
+                        <a href="./atom.xml" target="_blank" title="Atom">
+                            <img src="./atom.jpg" alt="Atom" style="width: 24px; height: 24px; border-radius: 3px;">
+                        </a>
                     </div>
                 </div>
             </div>
-
-            <div class="row mb-4">
-                <div class="col-12">
-                    <div class="bg-secondary bg-opacity-25 p-4 rounded-3 text-center">
-                        <h5 class="text-white mb-3">
-                            <span class="border-bottom border-warning pb-2">📡 CANALES DE SINDICACIÓN</span>
-                        </h5>
-                        
-                        <div class="d-flex justify-content-center gap-4 flex-wrap mb-3">
-                            
-                            <a href="./rss.xml" 
-                               target="_blank"
-                               class="btn btn-outline-warning btn-lg d-inline-flex align-items-center gap-3 px-4">
-                                <img src="./rss.gif" 
-                                     alt="RSS" 
-                                     style="width: 40px; height: 40px; border-radius: 6px;">
-                                <span class="fw-bold">RSS Feed</span>
-                            </a>
-                            
-                            <a href="./atom.xml" 
-                               target="_blank"
-                               class="btn btn-outline-info btn-lg d-inline-flex align-items-center gap-3 px-4">
-                                <img src="./atom.jpg" 
-                                     alt="Atom" 
-                                     style="width: 40px; height: 40px; border-radius: 6px;">
-                                <span class="fw-bold">Atom Feed</span>
-                            </a>
-                        </div>
-                        
-                        <p class="text-white-50 small mb-0">
-                            <span class="badge bg-warning text-dark me-2">¡NUEVO!</span>
-                            Suscríbete para recibir las últimas actualizaciones de mis proyectos y guías de viaje
-                        </p>
-                        
-                        <div class="mt-3 text-white-50 small">
-                            <code class="bg-dark text-white-50 p-1 rounded">/rss.xml</code> · 
-                            <code class="bg-dark text-white-50 p-1 rounded">/atom.xml</code>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <hr class="my-4" style="border-color: #444;">
             
-            <div class="row">
-                <div class="col-md-8">
-                    <p class="text-white-50 small mb-0">
-                        © 2026 Ibrahim El Hamdaoui · 1º ASIR · LMSGI · Todos los derechos reservados
-                    </p>
-                </div>
-                <div class="col-md-4 text-md-end">
-                    <a href="https://validator.w3.org/feed/check.cgi?url=https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/rss.xml" 
-                       target="_blank" 
-                       class="text-white-50 small me-3 text-decoration-none">
-                        Validar RSS
-                    </a>
-                    <a href="https://validator.w3.org/feed/check.cgi?url=https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/atom.xml" 
-                       target="_blank" 
-                       class="text-white-50 small text-decoration-none">
-                        Validar Atom
-                    </a>
-                </div>
-            </div>
+            <hr class="my-3" style="border-color: #444;">
+            
+            <p class="text-center text-white-50 mb-0">
+                © 2026 Ibrahim El Hamdaoui. Todos los derechos reservados.
+            </p>
         </div>
     </footer>
 
