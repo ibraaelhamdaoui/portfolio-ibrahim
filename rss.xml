@@ -1,48 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<!--Prólogo-->
-<title>Viajes y más</title>
-<link>https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/index.html</link>
-<description> Canal de noticias sobre viajes cutres </description>
-<category>index.html/</category>
-<copyright>1º ASIR - LMSGI</copyright>
-<image>
-<url>
-https://estherostos.github.io/proyectofhw/viajes.jpg
-</url>
-<title>Viajes y más</title>
-<link>https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/index.html</link>
-<width>30</width>
-<height>30</height>
-</image>
-<language>es-es</language>
-<lastBuildDate>Thu, 29 Jan 2029 14:20:00 +0100</lastBuildDate>
-<webMaster>elhamdoauiighzafen@gmail.com</webMaster>
-<!-- Noticias del canal -->
-<item>
-<title>Londres</title>
-<description>
-En este artículo encontrará información sobre Londres
-</description>
-<link>
-https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/index.html/rss.xml.html
-</link>
-<author>elhamdoauiighzafen@gmail.com</author>
-<category>londres</category>
-<enclosure url="" type="video" length="32572719"/>
-<pubDate>Thu, 29 Jan 2029 14:20:00 +0100</pubDate>
-</item>
-<item>
-<title>París</title>
-<description>
-En este artículo encontrará información sobre París
-</description>
-<link>
-https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/index.html/rss.xml.html
-</link>
-<author>eligib_aliesma@iesmedinaazahara.es</author>
-<category>paris</category>
-<pubDate>Thu, 29 Jan 2029 14:20:00 +0100</pubDate>
-</item>
+    <title>Portfolio Ibrahim - Viajes y más</title>
+    <link>https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/</link>
+    <description>Canal de noticias sobre viajes - Portfolio LMSGI</description>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 06 Mar 2026 13:00:00 +0100</lastBuildDate>
+    <webMaster>elhamdaouiighzafen@gmail.com</webMaster>
+    <copyright>1º ASIR - LMSGI</copyright>
+    
+    <image>
+        <url>https://raw.githubusercontent.com/ibraaelhamdaoui/portfolio-ibrahim/main/rss.gif</url>
+        <title>Portfolio Ibrahim - Viajes</title>
+        <link>https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/</link>
+        <width>88</width>
+        <height>31</height>
+        <description>Suscríbete a mi canal de viajes</description>
+    </image>
+    
+    <item>
+        <title> Londres - Guía de Viaje</title>
+        <description>
+            En este artículo encontrarás información completa sobre Londres: 
+            lugares turísticos (London Eye, Big Ben, Tower Bridge), 
+            transporte, alojamiento y consejos para viajeros.
+        </description>
+        <link>https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/pages/londres.html</link>
+        <guid isPermaLink="true">https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/pages/londres.html</guid>
+        <author>elhamdaouiighzafen@gmail.com</author>
+        <category>Londres</category>
+        <category>Reino Unido</category>
+        <pubDate>Thu, 05 Mar 2026 10:30:00 +0100</pubDate>
+    </item>
+    
+    <item>
+        <title> París - Guía Completa</title>
+        <description>
+            En este artículo encontrarás información sobre París: 
+            Torre Eiffel, Museo del Louvre, Catedral de Notre-Dame,
+            gastronomía francesa y los mejores barrios para visitar.
+        </description>
+        <link>https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/pages/paris.html</link>
+        <guid isPermaLink="true">https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/pages/paris.html</guid>
+        <author>elhamdaouiighzafen@gmail.com</author>
+        <category>París</category>
+        <category>Francia</category>
+        <pubDate>Thu, 05 Mar 2026 11:45:00 +0100</pubDate>
+    </item>
+    
+    <item>
+        <title>💻 Mi Portfolio Web - Proyecto LMSGI</title>
+        <description>
+            Portfolio personal desarrollado para el módulo de Lenguaje de Marcas (LMSGI)
+            con HTML, CSS, Bootstrap y sindicación RSS/Atom.
+        </description>
+        <link>https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/</link>
+        <guid isPermaLink="true">https://ibrahimelhamdaoui.github.io/portfolio-ibrahim/</guid>
+        <author>elhamdaouiighzafen@gmail.com</author>
+        <category>Portfolio</category>
+        <category>LMSGI</category>
+        <category>Desarrollo Web</category>
+        <pubDate>Fri, 06 Mar 2026 09:00:00 +0100</pubDate>
+    </article>
 </channel>
 </rss>
