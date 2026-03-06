@@ -8,7 +8,7 @@
     <lastBuildDate>Fri, 06 Mar 2026 13:00:00 +0100</lastBuildDate>
     <webMaster>elhamdaouiighzafen@gmail.com</webMaster>
     <copyright>1º ASIR - LMSGI</copyright>
-    
+
     <image>
         <url>https://raw.githubusercontent.com/ibraaelhamdaoui/portfolio-ibrahim/main/rss.gif</url>
         <title>Portfolio Ibrahim - Viajes</title>
@@ -49,7 +49,7 @@
     </item>
     
     <item>
-        <title>💻 Mi Portfolio Web - Proyecto LMSGI</title>
+        <title> Mi Portfolio Web - Proyecto LMSGI</title>
         <description>
             Portfolio personal desarrollado para el módulo de Lenguaje de Marcas (LMSGI)
             con HTML, CSS, Bootstrap y sindicación RSS/Atom.
@@ -61,6 +61,6 @@
         <category>LMSGI</category>
         <category>Desarrollo Web</category>
         <pubDate>Fri, 06 Mar 2026 09:00:00 +0100</pubDate>
-    </article>
+    </item>
 </channel>
 </rss>
